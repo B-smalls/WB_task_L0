@@ -1,0 +1,50 @@
+{
+    "order_uid": "a456debc89f12g3h456",
+    "track_number": "WBILMTESTTRACK",
+    "entry": "WBIL",
+    "delivery": {
+      "name": "John Doe",
+      "phone": "+15555555555",
+      "zip": "123456",
+      "city": "New York",
+      "address": "123 Main Street",
+      "region": "NY",
+      "email": "john.doe@example.com"
+    },
+    "payment": {
+      "transaction": "a456debc89f12g3h456",
+      "request_id": "",
+      "currency": "USD",
+      "provider": "paypal",
+      "amount": 2500,
+      "payment_dt": 1637911227,
+      "bank": "beta",
+      "delivery_cost": 1800,
+      "goods_total": 700,
+      "custom_fee": 0
+    },
+    "items": [
+      {
+        "chrt_id": 123456,
+        "track_number": "WBILMTESTTRACK",
+        "price": 500,
+        "rid": "de789f123g456h456",
+        "name": "Lipsticks",
+        "sale": 10,
+        "size": "0",
+        "total_price": 700,
+        "nm_id": 987654,
+        "brand": "Maybelline",
+        "status": 202
+      }
+    ],
+    "locale": "en",
+    "internal_signature": "",
+    "customer_id": "example_customer",
+    "delivery_service": "DHL",
+    "shardkey": "8",
+    "sm_id": 88,
+    "date_created": "2023-05-15T12:45:30Z",
+    "oof_shard": "2"
+  }
+  
